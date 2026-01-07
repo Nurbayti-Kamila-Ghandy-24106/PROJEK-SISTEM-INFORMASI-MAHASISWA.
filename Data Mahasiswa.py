@@ -1,9 +1,3 @@
-# PROJEK SISTEM INFORMASI MAHASISWA SEDERHANA
-# =========================================
-# Projek ini menggunakan fungsi-fungsi Python
-# untuk mengelola data mahasiswa
-# =========================================
-
 
 # Fungsi 1: Menampilkan identitas mahasiswa
 def tampilkan_mahasiswa(nama, nim, jurusan):
